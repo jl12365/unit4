@@ -24,7 +24,6 @@ def draw_squares(side):
     turtle.left(90)
     turtle.forward(side * (2 ** .5)/2) 
     turtle.left(90)
-
     #square 3
     (input('Press key to continue'))
 
