@@ -93,7 +93,7 @@ def draw_squares(side):
     
     (input('Press key to continue'))
 
-    return ((side/4) * (2 ** .5) /2)
+    
     
 
 def main():
